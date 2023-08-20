@@ -1,0 +1,13 @@
+{
+  "name": "pizzaroni-cli",
+  "version": "1.0.0",
+  "description": "Something something CLI",
+  "repository": "https://github.com/Anush008/pizzaroni-cli",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin": "./bin/runner.js",
+  "scripts": {
+    "install": "node install.js"
+  }
+}
