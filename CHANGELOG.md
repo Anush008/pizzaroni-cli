@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.1.0](https://github.com/Anush008/pizzaroni-cli/compare/v1.0.0...v1.1.0) (2023-08-20)
+
+
+### 🍕 Features
+
+* trigger minor release ([927c7cf](https://github.com/Anush008/pizzaroni-cli/commit/927c7cf1ea4bd1c15b2ea3251a533d0ab3db0c88))
+
 ## 1.0.0 (2023-08-20)
 
 
